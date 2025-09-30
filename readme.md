@@ -1,5 +1,7 @@
 # kb_mvac_voyager
 
+<img width="1280" height="605" alt="image" src="https://github.com/user-attachments/assets/d8900e69-253f-4199-aa66-b3374bca50ea" />
+
 A QMK-powered keyboard inspired by the ZSA Voyager.
 
 ## Overview
